@@ -15,4 +15,4 @@ def test_get_valid_element():
 
 
 def test_convert_valid_integer():
-    assert convert_to_integer("5.5") == 5
+    assert convert_to_integer(5.5) == 5
